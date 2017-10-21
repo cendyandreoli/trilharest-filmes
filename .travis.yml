@@ -4,5 +4,5 @@ deploy:
     secure: Q4s/1ytro04qpPpnxcqa4M0AKaLDIHT1UMN8sKRvEHxT35U++Zhm4FMn9ozrQ7vMIZXV4PLyC5W7bDsTuTA9/yFy0obFFh9Vh9BXh8z06RVc1+PYjVBalQLCPRuugwvNaRBrv2aQVR9MuFH/lhn2sk0Q2LxlhrnR3+g1CNr/lo0sQLEJGu7+YSwAMNOs8aq3hpMohgxIzAXGj8fob9ZgOCileah/DymO+hqn733AhHG9MIy1eKCpaLaLTcpoTXufGF5k9HeifpVoue0cZCTTNxCX4SoHvuxXT9K4vcWprgA+4R6M7jFtWz4ASGqazqsq/z9bT2YyrwcMQDLk2XYTqex10lsBt7RYdCnVbSUaAeNWlyT5tZeGFV9pbCKVsOJE6ITwzy2ClhxFnhySwuxOe7R0Alk/ZKFhrRzvAV9KwsNX1+werkjBAJ0LV642DHNke7+PIg2YCRGH83dIPuhK7gOiASDlvkNDizqMdBUZEkM7z+lVnLAYCytP3EJexBD+JO74GFdvAJh+ScUMXAUCWWpfq4CYJ8JyAMfob9mPg1PMCgfSjX8B/H0GeJcJiEixLeZE+tvxhfO4cEPI8l21Esc3OSIbddp3NORNILP3PmdzWxYNJDR0xC372qNwItsb2cJ15QsM6mM0tbmKKHUfu8xzHz2spSXkhU+32CbkiUU=
   provider: heroku
   app:
-    staging: cendy-andreoli-trilharest-staging
+    staging: cendy-a-trilharest-staging
     master: cendy-a-trilharest-master
